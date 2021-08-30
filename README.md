@@ -1,6 +1,5 @@
 <p align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aid-3n&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aid-3n&layout=compact&theme=light">
 </p>
   
 <p align="center">
