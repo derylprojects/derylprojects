@@ -1,3 +1,7 @@
+<p align="center>
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif">
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aid-3n&layout=compact&theme=light">
 </p>
